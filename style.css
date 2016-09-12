@@ -1,0 +1,41 @@
+header {
+  border-color: rgba(23, 2, 93, 0.73);
+  border-style: solid;
+  background-color: rgba(23, 2, 93, 0.53);
+  font-family: monospace;
+}
+
+nav {
+  /*background-color: rgba(150, 85, 144, 0.51);*/
+  border-style: double;
+  border-color: rgba(140, 0, 127, 0.51);
+  /*display: inline;*/
+}
+
+body {
+  background-color: rgba(9, 39, 195, 0.37);
+  position: relative;
+  /*padding-bottom: 10px;*/
+}
+
+ul li{
+  list-style: none;
+}
+
+a:hover {
+  background-color: rgb(20, 158, 121);
+}
+
+img {
+  height: 280px;
+  width: 255px:
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width:100%;
+  border-style: solid;
+  border-color: rgb(66, 92, 224);
+  border-width: 5px;
+}

@@ -1,0 +1,15 @@
+img {
+  display: block;
+  float: left;
+  padding-right: 50px;
+  padding-bottom: 20px;
+}
+
+/*footer {
+  position: absolute;
+  bottom: 0;
+  width:100%;
+  border-style: solid;
+  border-color: rgb(66, 92, 224);
+  border-width: 5px;
+}*/
